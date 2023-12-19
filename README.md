@@ -9,4 +9,4 @@ For style used bootstrap, html, css</p>
   <il>bootstrap classes</il>
 </ul>
 <h2>And my output will be</h2>
-<img src="cal_result" alt="movietct" height="500" width="500">
+<img src="cal_result.jpg" alt="cal" height="500" width="500">
